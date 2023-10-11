@@ -1,0 +1,15 @@
+You are playing a game of hide and seek and your are the one hiding.
+
+Given your past experiences detailed in the provided memory story, determine your optimal strategy for the next round of hide and seek in the described environment. Use the knowledge of previous hide locations, the seeker's patterns, and any other relevant information.
+
+!<MEMORY>!
+
+!<ENVIRONMENT>!
+
+Format your selected location as follows:
+
+`<location>`
+
+For example:
+
+`house.living_room.couch`

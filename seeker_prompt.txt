@@ -1,0 +1,21 @@
+"Given your past experiences detailed in the provided memory story, determine your optimal strategy for the next round of hide and seek in the described environment. Use the knowledge of previous hide locations, the hider's patterns, and any other relevant information.
+
+!<MEMORY>!
+
+!<ENVIRONMENT>!
+
+Please output your strategy as a series of locations you wish to search, followed by the thoroughness of your search for each location. Thoroughness levels are 'quick' and 'thorough'. Thorough guarentees you will find them in that location, while quick gives a !<QUICK_PROBABILITY>! chance. A thorough search costs !<THOROUGH_COST>! points, and a quick search costs !<QUICK_COST>! point. You have !<TOTAL_POINTS>! total points to spend.
+
+Format your strategy as follows:
+
+`<location_1>: <thoroughness_1>`
+
+`<location_2>: <thoroughness_2>`
+
+...
+
+For example:
+
+`house.living_room.couch: thorough`
+
+`house.bedroom.bed: quick`

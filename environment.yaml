@@ -1,0 +1,21 @@
+environment:
+  house:
+    description: "A two-story suburban home with a white picket fence."
+    living_room:
+      description: "A spacious room with a large window looking out to the garden."
+      couch:
+        description: "A large beige sectional sofa, big enough to hide behind."
+      tv_stand:
+        description: "A modern black TV stand with several compartments below."
+    kitchen:
+      description: "A modern kitchen with stainless steel appliances."
+      fridge:
+        description: "A double-door stainless steel fridge with a water dispenser."
+      cabinet:
+        description: "Oak wood cabinets, some of which are high up near the ceiling."
+    bedroom:
+      description: "A cozy room with dim lighting and plush carpeting."
+      bed:
+        description: "A queen-sized bed with a thick duvet and several pillows."
+      wardrobe:
+        description: "A tall wooden wardrobe with sliding doors and a mirror on one side."
