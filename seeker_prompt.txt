@@ -1,4 +1,5 @@
-"Given your past experiences detailed in the provided memory story, determine your optimal strategy for the next round of hide and seek in the described environment. Use the knowledge of previous hide locations, the hider's patterns, and any other relevant information.
+!<PERSONA>!
+Given your past experiences detailed in the provided memory story, determine your optimal strategy for the next round of hide and seek in the described environment. Use the knowledge of previous hide locations, the hider's patterns, and any other relevant information.
 
 !<MEMORY>!
 
